@@ -3,9 +3,9 @@
 Script for Windows 10/11 Devices that Includes:
 
 - [x] Disabling Windows Updates
-- [x] Disk Defragmentation/Trimming
-- [x] Disk Cleanup
-- [x] Debloating
 - [ ] Disabling Unnecessary Services
+- [x] Debloating
 - [ ] Windows Settings Optimization
 - [ ] Registry Optimization
+- [x] Disk Defragmentation/Trimming
+- [x] Disk Cleanup
