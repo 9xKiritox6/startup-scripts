@@ -40,7 +40,6 @@ cls
 rd /s /q %temp%
 cls
 md %temp%
-cls
 
 for /f "tokens=1,2*" %%V IN ('bcdedit') do set adminTest=%%V
 if (%adminTest%)==(Access) exit
