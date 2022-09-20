@@ -15,4 +15,4 @@ Script for Windows 10/11 Devices that Includes:
 - ``Create a Shortcut`` of ``mainSequence.cmd``
 - Run ``shell:common startup``
 - Paste the Created Shortcut on that Folder
-- ``Edit`` the ``mainSequence.cmd`` on what action it will do
+- ``Edit`` the ``mainSequence.cmd`` to customize the actions it will do
